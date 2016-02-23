@@ -3,7 +3,7 @@
 //  Photo-app
 //
 //  Created by Mariya Dychko on 20.02.16.
-//  Copyright © 2016 Simple Project. All rights reserved.
+//  Copyright © 2016 Mariya Dychko. All rights reserved.
 //
 
 import UIKit
